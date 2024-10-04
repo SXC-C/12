@@ -1,5 +1,5 @@
 body {
-    background-color: #7eb9ed; /* Light readable color */
+    background-color: #7eb9ed; 
     font-family: Arial, sans-serif;
 }
 
@@ -18,18 +18,18 @@ body {
 }
 
 .topnav a.active {
-    background-color: #2a3db7; /* Active link color */
+    background-color: #2a3db7; 
     color: rgb(0, 0, 0);
 }
 
 .topnav a:hover {
-    background-color: #a59fdc; /* Non-active links should not change on hover */
+    background-color: #a59fdc;
     color: black;
 }
 
 .box {
-    background-color: #3e8396; /* Light background color */
-    border: 10px solid #3399ff; /* Darker border */
+    background-color: #3e8396;
+    border: 10px solid #3399ff; 
     padding: 20px;
     margin: 20px;
 }
